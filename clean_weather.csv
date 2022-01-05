@@ -1,4 +1,4 @@
-,Temperature,DewPoint,Humidity,Wind,WindSpeed,WindGust,Pressure,Precip,Condition,datetime1,month,day,hour,minute
+Index,Temperature,DewPoint,Humidity,Wind,WindSpeed,WindGust,Pressure,Precip,Condition,datetime1,month,day,hour,minute
 2,43 °F,41 °F,93 %,ENE,5 mph,0 mph,30.12 in,0.0 in,Cloudy,2013-01-13 00:46:00,1,13,0,46
 3,42 °F,41 °F,96 %,E,5 mph,0 mph,30.12 in,0.0 in,Cloudy,2013-01-13 00:51:00,1,13,0,51
 4,43 °F,41 °F,93 %,E,3 mph,0 mph,30.13 in,0.0 in,Cloudy,2013-01-13 01:47:00,1,13,1,47
