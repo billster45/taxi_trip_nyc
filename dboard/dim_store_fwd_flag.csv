@@ -1,0 +1,4 @@
+StoreFwdFlagKey|StoreFwdFlagDesc
+999|missing
+0|N: not a store and forward trip
+1|Y: a store and forward trip
